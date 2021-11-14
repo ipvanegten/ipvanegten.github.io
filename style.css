@@ -3,3 +3,7 @@ body {
     background: pink;
     text-align: center;
 }
+@font-face {
+    font-family: myFirstFont;
+    src: url(futur.ttf);
+}
